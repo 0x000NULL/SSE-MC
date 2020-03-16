@@ -62,7 +62,7 @@ arenas:
     - fallenindustryreal:175:37:117:-89.11243:51.299644
     - fallenindustryreal:179:37:119:-95.11371:41.699585
     - fallenindustryreal:183:37:121:-176.56598:-15.450478
-    lobbysign: lobby:-128:5:55
+    lobbysign: lobby:-87:83:32
     chest-refill: 30
     border:
       size: 10000
@@ -102,6 +102,6 @@ arenas:
     - Turbulence:1072:53:-47:-98.70752:34.5004
     - Turbulence:1078:53:-47:-98.70752:34.5004
     - Turbulence:1084:53:-49:-119.408936:46.050495
-    lobbysign: lobby:-133:5:53
+    lobbysign: lobby:-85:83:36
     border:
       size: 100000
