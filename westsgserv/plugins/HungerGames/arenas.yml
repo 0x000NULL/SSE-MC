@@ -1,0 +1,107 @@
+arenas:
+  indust_test:
+    bound:
+      world: fallenindustry
+      x: 299
+      y: 255
+      z: 149
+      x2: -448
+      y2: 0
+      z2: -491
+    info:
+      timer: 3600
+      min-players: 4
+      max-players: 48
+    commands:
+    - none
+  FallenIndustry:
+    bound:
+      world: fallenindustryreal
+      x: 571
+      y: 253
+      z: 661
+      x2: -420
+      y2: 0
+      z2: -240
+    info:
+      timer: 3600
+      min-players: 16
+      max-players: 32
+    commands:
+    - none
+    spawns:
+    - fallenindustryreal:186:36:122:-148.64084:12.89974
+    - fallenindustryreal:191:37:121:-191.99017:4.9498515
+    - fallenindustryreal:195:37:119:-204.13855:3.000001
+    - fallenindustryreal:199:37:117:-213.58783:20.39999
+    - fallenindustryreal:202:37:116:-194.2378:34.799988
+    - fallenindustryreal:203:37:113:-208.03864:34.349922
+    - fallenindustryreal:205:37:109:-184.18909:30.599785
+    - fallenindustryreal:207:37:105:-231.59302:56.849857
+    - fallenindustryreal:208:37:101:-255.44232:49.349716
+    - fallenindustryreal:207:37:97:-280.64508:0.7498822
+    - fallenindustryreal:205:37:92:-291.89886:84.75005
+    - fallenindustryreal:203:37:89:-309.448:49.049725
+    - fallenindustryreal:202:37:86:-296.85303:61.34984
+    - fallenindustryreal:199:37:85:-303.15552:28.199661
+    - fallenindustryreal:195:37:83:-275.10638:34.349648
+    - fallenindustryreal:191:37:81:-311.2567:44.249744
+    - fallenindustryreal:187:37:80:-329.85736:37.949696
+    - fallenindustryreal:183:37:81:-288.15656:41.2497
+    - fallenindustryreal:179:37:83:-333.1577:51.1498
+    - fallenindustryreal:175:37:85:-304.20654:45.149757
+    - fallenindustryreal:172:37:86:-54.757263:19.349731
+    - fallenindustryreal:171:37:89:-29.257996:29.849718
+    - fallenindustryreal:169:37:93:-1.8085327:34.19968
+    - fallenindustryreal:167:37:97:-13.060242:31.949606
+    - fallenindustryreal:166:37:101:-4.810364:35.699642
+    - fallenindustryreal:167:37:105:-23.26233:33.299618
+    - fallenindustryreal:169:37:109:-45.01367:46.49973
+    - fallenindustryreal:171:37:113:-61.064636:39.899662
+    - fallenindustryreal:172:37:116:-81.01465:42.14955
+    - fallenindustryreal:175:37:117:-89.11243:51.299644
+    - fallenindustryreal:179:37:119:-95.11371:41.699585
+    - fallenindustryreal:183:37:121:-176.56598:-15.450478
+    lobbysign: lobby:-128:5:55
+    chest-refill: 30
+    border:
+      size: 10000
+  Turbulence:
+    bound:
+      world: Turbulence
+      x: 725
+      y: 255
+      z: 220
+      x2: 1354
+      y2: 0
+      z2: -444
+    info:
+      timer: 3600
+      min-players: 12
+      max-players: 20
+    commands:
+    - none
+    spawns:
+    - Turbulence:1097:53:-72:-267.74445:75.15038
+    - Turbulence:1095:53:-78:-267.14716:48.900284
+    - Turbulence:1092:53:-83:-267.14716:48.900284
+    - Turbulence:1088:53:-87:-267.14716:48.900284
+    - Turbulence:1083:53:-90:-267.14716:48.900284
+    - Turbulence:1078:53:-91:-267.14716:48.900284
+    - Turbulence:1072:53:-91:-267.14716:48.900284
+    - Turbulence:1066:53:-90:-267.14716:48.900284
+    - Turbulence:1061:53:-86:-267.14716:48.900284
+    - Turbulence:1057:53:-82:-267.14716:48.900284
+    - Turbulence:1054:53:-77:-267.14716:48.900284
+    - Turbulence:1053:53:-72:-267.14716:48.900284
+    - Turbulence:1053:53:-66:-357.7461:71.85032
+    - Turbulence:1055:53:-60:-95.10272:22.500288
+    - Turbulence:1058:53:-55:-83.2547:42.900375
+    - Turbulence:1062:53:-51:-64.354126:24.900393
+    - Turbulence:1067:53:-48:-78.75635:29.400381
+    - Turbulence:1072:53:-47:-98.70752:34.5004
+    - Turbulence:1078:53:-47:-98.70752:34.5004
+    - Turbulence:1084:53:-49:-119.408936:46.050495
+    lobbysign: lobby:-133:5:53
+    border:
+      size: 100000

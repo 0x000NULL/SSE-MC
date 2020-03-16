@@ -1,0 +1,11 @@
+holograms:
+  hg:
+    location: lobby;-85.38976624332066;85.11649390351018;84.70608021859128;90.0;316.04117
+    lines:
+    - HungerGames
+    - Wins
+    - '%player_name%'
+  Parkour:
+    location: lobby;-188.73669121049346;91.82253450330046;66.58866139759552;10.322023;92.891266
+    lines:
+    - Parkour

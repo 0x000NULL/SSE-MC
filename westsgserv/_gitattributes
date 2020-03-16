@@ -1,0 +1,17 @@
+plugins/FastAsyncWorldEdit/config.yml filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/es filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/fr filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/history filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/message.yml filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/tr filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/cn filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/config-legacy.yml filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/ru filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/de filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/it filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/nl filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/schematics filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/sessions filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/clipboard filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/commands.yml filter=lfs diff=lfs merge=lfs -text
+plugins/FastAsyncWorldEdit/config.yml_broken filter=lfs diff=lfs merge=lfs -text

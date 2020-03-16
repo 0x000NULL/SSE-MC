@@ -1,0 +1,20 @@
+lastAccountName: 6bubbaboy
+timestamps:
+  login: 1568596376644
+  logout: 1564549659301
+ipAddress: 127.0.0.1
+afk: false
+logoutlocation:
+  world: lobby
+  x: -85.01125898855817
+  y: 83.74993524998995
+  z: 85.8440807587817
+  yaw: -178.052
+  pitch: 8.100786
+lastlocation:
+  world: mesa
+  x: -61.02906562755267
+  y: 82.0
+  z: -27.98853105867307
+  yaw: -68.39981
+  pitch: 22.050022

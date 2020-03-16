@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "0e09985b-ddfa-4c91-a352-884b22c259e1",
+    "name": "stripcheese",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4b3ecb8c-bc80-4ae0-89b6-2e954d940d39",
+    "name": "Big_Nick_Energy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e120f9ec-7cd5-432c-bada-6adcbb3e7c5b",
+    "name": "Davis_Kong",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "17ab30c1-5190-4736-bdd3-21247373eeef",
+    "name": "Demonic_Void",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "75224b4b-1e26-4846-8dc6-f0c2b4706b7a",
+    "name": "One_True_Hobo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "505432e1-aac2-4e84-b1ee-7eb8147a3a65",
+    "name": "6bubbaboy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e1e92588-2ae9-4444-b7ca-fbbc80acb8f0",
+    "name": "Tokken_TSK",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

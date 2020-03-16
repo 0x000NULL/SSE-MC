@@ -1,0 +1,21 @@
+lastAccountName: Demonic_Void
+timestamps:
+  login: 1563925179456
+  lastteleport: 1563927667819
+  logout: 1563928245718
+ipAddress: 68.104.31.144
+lastlocation:
+  world: mesa
+  x: -76.05728814972652
+  y: 84.50101100081743
+  z: -34.47064812360518
+  yaw: 3.133789
+  pitch: 10.269446
+godmode: true
+logoutlocation:
+  world: lobby
+  x: -167.7286260827159
+  y: 110.57709725249848
+  z: 77.52239553575367
+  yaw: 103.26526
+  pitch: 41.561264

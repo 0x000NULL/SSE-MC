@@ -1,0 +1,20 @@
+lastAccountName: Tokken_TSK
+timestamps:
+  login: 1563921283108
+  logout: 1563922216404
+ipAddress: 68.227.22.141
+lastlocation:
+  world: world
+  x: 7.300000011920928
+  y: 75.0
+  z: 1.3752994837153114
+  yaw: 187.35063
+  pitch: 26.699978
+geolocation: United States
+logoutlocation:
+  world: lobby
+  x: -131.25313348399527
+  y: 102.0
+  z: 42.796238816536444
+  yaw: 267.11517
+  pitch: 50.25099

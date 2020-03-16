@@ -1,0 +1,23 @@
+lastAccountName: Big_Nick_Energy
+timestamps:
+  login: 1564007048390
+  logout: 1564008380166
+  lastteleport: 1564008278437
+ipAddress: 68.227.39.171
+logoutlocation:
+  world: lobby
+  x: -168.0697613597783
+  y: 104.33173611039366
+  z: 64.03143197362739
+  yaw: 270.01965
+  pitch: 18.300606
+lastlocation:
+  world: world
+  x: 355.5
+  y: 90.0
+  z: 336.5
+  yaw: -221.6192
+  pitch: -7.3131174E-4
+godmode: true
+acceptingPay: true
+money: '6912000.0'
