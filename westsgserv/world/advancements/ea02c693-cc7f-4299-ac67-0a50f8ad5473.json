@@ -29,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2020-03-16 06:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-07-23 06:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2020-03-16 05:37:14 +0000"
     },
     "done": true
   },
@@ -89,15 +101,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-03-16 05:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-18 19:43:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-03-16 06:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-07-18 18:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-03-16 06:17:44 +0000"
     },
     "done": true
   },
@@ -155,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-03-16 05:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-18 19:43:07 +0000"
@@ -203,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2020-03-16 05:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-18 17:39:50 +0000"
@@ -215,13 +257,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-18 17:39:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+  "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-18 17:39:50 +0000"
     },
@@ -260,6 +302,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-07-23 06:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-03-16 05:37:14 +0000"
     },
     "done": true
   },
@@ -335,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2020-03-16 05:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2019-07-18 19:44:39 +0000"
@@ -368,17 +422,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-07-18 17:38:20 +0000",
-      "minecraft:badlands_plateau": "2019-07-18 17:35:11 +0000",
-      "minecraft:mountains": "2019-07-18 17:35:46 +0000",
       "minecraft:forest": "2019-07-18 17:35:59 +0000",
+      "minecraft:mountains": "2019-07-18 17:35:46 +0000",
+      "minecraft:badlands_plateau": "2019-07-18 17:35:11 +0000",
       "minecraft:taiga": "2019-07-18 17:37:26 +0000",
+      "minecraft:taiga_hills": "2020-03-16 05:01:17 +0000",
       "minecraft:desert": "2019-07-18 17:35:42 +0000",
+      "minecraft:birch_forest": "2020-03-16 05:11:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-07-18 17:36:57 +0000",
       "minecraft:badlands": "2019-07-18 17:34:37 +0000",
       "minecraft:beach": "2019-07-18 17:37:03 +0000",
       "minecraft:dark_forest": "2019-07-18 17:37:05 +0000",
-      "minecraft:lukewarm_ocean": "2019-07-18 17:36:55 +0000",
       "minecraft:river": "2019-07-18 17:27:22 +0000",
+      "minecraft:lukewarm_ocean": "2019-07-18 17:36:55 +0000",
+      "minecraft:birch_forest_hills": "2020-03-16 05:04:13 +0000",
       "minecraft:wooded_mountains": "2019-07-18 17:35:51 +0000",
       "minecraft:wooded_hills": "2019-07-18 17:38:01 +0000",
       "minecraft:wooded_badlands_plateau": "2019-07-18 17:33:49 +0000",
@@ -477,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-03-16 05:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-07-18 19:04:43 +0000"
@@ -486,6 +549,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-07-18 17:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2020-03-16 05:28:28 +0000"
     },
     "done": true
   },
@@ -544,6 +613,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-03-16 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_leggings": "2020-03-16 05:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/uneasy_alliance": {
     "criteria": {
       "killed_ghast": "2019-07-18 19:44:39 +0000"
@@ -589,6 +670,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-18 17:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-03-16 05:27:27 +0000"
     },
     "done": true
   },
